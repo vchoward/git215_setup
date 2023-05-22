@@ -1,2 +1,2 @@
 # git215_setup
-## Author: Howard Vanessa
+## Author: Vanessa Howard
